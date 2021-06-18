@@ -10,7 +10,7 @@ Politics_
 # List of Replication Files 
 
 
-**2019_Articles_Data.csv** – The database of political science articles from 2019 that was used in the section “The State of the Discipline: General Citations as Political Science Convention” in the main article.
+[**2019_Articles_Data.csv**](https://github.com/jonathan-grossman/Cite-the-Good-Cite/blob/main/2019_Articles_Data.csv) – The database of political science articles from 2019 that was used in the section “The State of the Discipline: General Citations as Political Science Convention” in the main article.
 
 **RegEx_Formulas.csv** – The regular expression patterns used to extract citations, citations of several works by the same author(s), detailed citations, and superfluous words in the list of references in every article. 
 
