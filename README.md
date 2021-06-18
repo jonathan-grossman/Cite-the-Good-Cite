@@ -4,7 +4,7 @@
 
 by [Jonathan Grossman](https://twitter.com/CatRobotIL)
 
-# List of Replication Files_ 
+# List of Replication Files 
 
 
 **2019_Articles_Data.csv** – The database of political science articles from 2019 that was used in the section “The State of the Discipline: General Citations as Political Science Convention” in the main article.
