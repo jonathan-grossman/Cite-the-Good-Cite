@@ -9,6 +9,8 @@ Politics_
 
 # List of Replication Files 
 
+[**Online_Appendix.pdf**](https://github.com/jonathan-grossman/Cite-the-Good-Cite/blob/main/Online_Appendix.pdf) – Online appendix for the article.
+
 
 [**2019_Articles_Data.csv**](https://github.com/jonathan-grossman/Cite-the-Good-Cite/blob/main/2019_Articles_Data.csv) – The database of political science articles from 2019 that was used in the section “The State of the Discipline: General Citations as Political Science Convention” in the main article.
 
