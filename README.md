@@ -1,11 +1,13 @@
 ### Online Appendix and Replication Materials for
 
-## _Cite the Good Cite: Making Citations in Political Science More Transparent_
+## [_Cite the Good Cite: Making Citations in Political Science More Transparent_](https://doi.org/10.1017/S1049096521000949)
 
 by [Jonathan Grossman](https://twitter.com/CatRobotIL)
 
 Published in _PS: Political Science &
-Politics_, Volume 55, Issue 1, pages 129–134. DOI: https://doi.org/10.1017/S1049096521000949
+Politics_, Volume 55, Issue 1, January 2022, pages 129–134. 
+
+DOI: https://doi.org/10.1017/S1049096521000949
 
 # List of Replication Files 
 
