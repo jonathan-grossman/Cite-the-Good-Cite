@@ -4,8 +4,8 @@
 
 by [Jonathan Grossman](https://twitter.com/CatRobotIL)
 
-To be published in _PS: Political Science &
-Politics_
+Published in _PS: Political Science &
+Politics_, Volume 55, Issue 1, pages 129–134. DOI: https://doi.org/10.1017/S1049096521000949
 
 # List of Replication Files 
 
